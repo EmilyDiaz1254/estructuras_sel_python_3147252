@@ -14,3 +14,7 @@ print("el resultado de operar con not es" ,y)
 #Ejemplo 2: Operador and
 y = False and True
 print("El resultado de operar con and es" ,y)
+
+#Ejemplo 3: Operador or
+y=False or False
+print("el resultado de operar con or es" ,y)

@@ -43,3 +43,13 @@ print("el resultado de operar con jerarquia de operadores es", y)
 y = not 3 > 4 and 4 -- 4 or 3<2
 print("el resultado de operar con jerarquia de o", y)
 
+
+#ejemplo 6: operadores aritmeticos
+#realacionales y logicos
+
+y = 3 + 5 * 2 > and 4 == 4 or  3 < 20
+
+
+# Ejemplo 7: con parentesis
+
+y = ( 3 + 5 ) * ( 2 > 3 ) and 4 == 4  or not 3 < 2

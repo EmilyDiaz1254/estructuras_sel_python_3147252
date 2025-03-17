@@ -47,7 +47,7 @@ print("el resultado de operar con jerarquia de o", y)
 #ejemplo 6: operadores aritmeticos
 #realacionales y logicos
 
-y = 3 + 5 * 2 > and 4 == 4 or  3 < 20
+y = 3 + 5 * 2 > 10 and 4 == 4 or 3 < 20
 
 
 # Ejemplo 7: con parentesis
